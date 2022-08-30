@@ -1,3 +1,3 @@
 # ToDo_List_(App)
-Todo list application : <a href="https://abdelhafidrahab.github.io/ToDo_List_App/"> 🚀 DEMO  </a><br>
+ list of tasks you need to complete or things that you want to do : <a href="https://abdelhafidrahab.github.io/ToDo_List_App/"> 🚀 DEMO  </a><br>
 
